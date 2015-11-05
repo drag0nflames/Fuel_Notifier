@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Fuel Notifier</string>
     <string name="action_settings">Settings</string>
@@ -6,7 +7,8 @@
     <string name="password">Password</string>
     <string name="login">Login</string>
     <string name="about">About</string>
-    <string name="about_txt">Fuel Notifier is the android app devloped for the people of nepal. Considering the scenario of fuel crisis this app is devloped
+    <string name="sss">sss</string>
+    <string name="about_txt">Fuel Notifier is the android app developed for the people of Nepal. Considering the scenario of fuel crisis this app is devloped
         with the intent so that people with busy schedule can get information about fuel distribution whenever possible</string>
     <string name="title_activity_settings">Settings</string>
 

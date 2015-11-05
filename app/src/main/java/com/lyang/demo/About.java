@@ -6,7 +6,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.MenuItem;
 
 /**
- * Created by DELL on 10/28/2015.
+ *
  */
 public class About extends AppCompatActivity{
     @Override
@@ -16,6 +16,7 @@ public class About extends AppCompatActivity{
         ActionBar bar = getSupportActionBar();
         if (bar != null) {
             bar.setTitle("About");
+            bar.setDisplayHomeAsUpEnabled(true);
             bar.setDisplayShowHomeEnabled(true);
             bar.setDefaultDisplayHomeAsUpEnabled(true);
         }
