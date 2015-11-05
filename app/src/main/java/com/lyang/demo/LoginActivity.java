@@ -20,7 +20,6 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
 
     @Override
     public void onClick(View v) {
-        //Toast.makeText(this,"Login Clicked", Toast.LENGTH_LONG).show();
         startActivity(new Intent(this,MainActivity.class));
     }
 }
